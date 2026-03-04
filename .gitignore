@@ -1,0 +1,48 @@
+# Maven
+ES_Backend/target/
+ES_Backend/.classpath
+ES_Backend/.project
+ES_Backend/.settings/
+ES_Backend/*.jar
+ES_Backend/pom.xml.tag
+ES_Backend/pom.xml.releaseBackup
+ES_Backend/pom.xml.versionsBackup
+ES_Backend/pom.xml.next
+ES_Backend/release.properties
+ES_Backend/dependency-reduced-pom.xml
+ES_Backend/.flattened-pom.xml
+ES_Backend/.m2e-wstpmodules
+
+# Node
+ProgressIQ-Frontend/node_modules/
+ProgressIQ-Frontend/dist/
+ProgressIQ-Frontend/.env.local
+ProgressIQ-Frontend/.env.*.local
+ProgressIQ-Frontend/*.log
+ProgressIQ-Frontend/npm-debug.log*
+ProgressIQ-Frontend/yarn-debug.log*
+ProgressIQ-Frontend/yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Database
+*.sql
+
+# Certificates
+*.p12
+*.pem
+HELP.md
+
+# OS
+.DS_Store
+Thumbs.db
