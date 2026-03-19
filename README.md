@@ -1,4 +1,4 @@
-# ProgressIQ Education System
+# ProgressIQ Learning System
 
 A comprehensive learning management system that tracks student progress with real-time analytics and detailed completion insights for teachers.
 
